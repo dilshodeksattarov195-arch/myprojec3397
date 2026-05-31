@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerstringify",
+        "uuid": 12599473,
+        "checksum": "ws9t6"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
